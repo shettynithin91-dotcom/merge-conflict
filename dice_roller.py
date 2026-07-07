@@ -2,8 +2,10 @@ import random
 import tkinter as tk
 
 DICE_UNICODE = ["⚀", "⚁", "⚂", "⚃", "⚄", "⚅"]
+<<<<<<< HEAD
+print("featrure branch")
 print("Main branch")
-
+>>>>>>> feature-six-sided
 
 def roll_dice():
     return random.randint(1, 6)
