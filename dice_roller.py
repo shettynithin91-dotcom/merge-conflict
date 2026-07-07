@@ -2,7 +2,7 @@ import random
 import tkinter as tk
 
 DICE_UNICODE = ["⚀", "⚁", "⚂", "⚃", "⚄", "⚅"]
-print("rolling six sided dice")
+print("featrure branch")
 
 def roll_dice():
     return random.randint(1, 6)
